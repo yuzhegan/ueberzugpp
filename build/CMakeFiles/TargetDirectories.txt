@@ -1,0 +1,13 @@
+/home/dav/app/ueberzugpp/build/CMakeFiles/ueberzug.dir
+/home/dav/app/ueberzugpp/build/CMakeFiles/edit_cache.dir
+/home/dav/app/ueberzugpp/build/CMakeFiles/rebuild_cache.dir
+/home/dav/app/ueberzugpp/build/CMakeFiles/list_install_components.dir
+/home/dav/app/ueberzugpp/build/CMakeFiles/install.dir
+/home/dav/app/ueberzugpp/build/CMakeFiles/install/local.dir
+/home/dav/app/ueberzugpp/build/CMakeFiles/install/strip.dir
+/home/dav/app/ueberzugpp/build/_deps/cppzmq-build/CMakeFiles/edit_cache.dir
+/home/dav/app/ueberzugpp/build/_deps/cppzmq-build/CMakeFiles/rebuild_cache.dir
+/home/dav/app/ueberzugpp/build/_deps/cppzmq-build/CMakeFiles/list_install_components.dir
+/home/dav/app/ueberzugpp/build/_deps/cppzmq-build/CMakeFiles/install.dir
+/home/dav/app/ueberzugpp/build/_deps/cppzmq-build/CMakeFiles/install/local.dir
+/home/dav/app/ueberzugpp/build/_deps/cppzmq-build/CMakeFiles/install/strip.dir

@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-P;/home/dav/app/ueberzugpp/build/_deps/cppzmq-subbuild/cppzmq-populate-prefix/src/cppzmq-populate-stamp/download-cppzmq-populate.cmake;COMMAND;/usr/bin/cmake;-P;/home/dav/app/ueberzugpp/build/_deps/cppzmq-subbuild/cppzmq-populate-prefix/src/cppzmq-populate-stamp/verify-cppzmq-populate.cmake;COMMAND;/usr/bin/cmake;-P;/home/dav/app/ueberzugpp/build/_deps/cppzmq-subbuild/cppzmq-populate-prefix/src/cppzmq-populate-stamp/extract-cppzmq-populate.cmake
+source_dir=/home/dav/app/ueberzugpp/build/_deps/cppzmq-src
+work_dir=/home/dav/app/ueberzugpp/build/_deps
+url(s)=https://github.com/zeromq/cppzmq/archive/refs/tags/v4.9.0.tar.gz
+hash=
+no_extract=
+
